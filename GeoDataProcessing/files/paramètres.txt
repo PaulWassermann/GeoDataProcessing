@@ -1,0 +1,11 @@
+{
+    "Air calibration filename": "EtalonnageAir_16082020",
+    "Air calibration grid": "Quadrillage fin",
+    "Data path": "C:\\Users\\paul9\\Desktop\\Informatique\\Projets Python\\GeoDataProcessing\\files\\Correction_Pression2% - Copie.xlsx",
+    "File extension": ".jpg",
+    "Graphs directory": "C:\\Users\\paul9\\Desktop\\Informatique\\Projets Python\\GeoDataProcessing",
+    "Last connection": "2020-08-17",
+    "Tube calibration filename": "EtalonnageTube_16082020",
+    "Tube calibration grid": "Quadrillage fin",
+    "Tube calibration method": "Lagrange interpolation"
+}
