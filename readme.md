@@ -1,6 +1,6 @@
 # GeoDataProcessing
 
-GeoDataProcessing is a software designed to process data extracted from a pressuremeter test.   
+GeoDataProcessing is a software designed to process data measured during a pressuremeter test.   
 It is yet to be finished, but it already supports basic data process as well as some configurable options.
 
 
