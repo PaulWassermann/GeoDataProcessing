@@ -18,5 +18,22 @@ Note: For now, the application can only process data measured during pressuremet
 
 To automatically process your data, you must provide:
 
-- an input, the excel file holding your data (to know how your data should be stored in your input file, open 
+- an input file, the path to the excel file holding your data. To know how your data should be stored in your input file, open Test_file.xlsx and respect carefully the format: three worksheets each containing, in this order, the data relative to the tube calibration, the air calibration and finally the data of your pressuremeter test
+
+- a target file, the path to an excel file again. If the path provided already exists, your excel file will be overwritten, else the file is created for you.
+
+Other parameters like the path to the folder in which the graphs are to be saved, the file extension of the graphs  and many others can be modified in the parameters menu but have a default value so it is not required to set those up. All the parameters of your application are stored in the "parameters.txt" file, and any corrupted value would be replaced by a default value (if the file cannot be found, a new one is created with default values).
+
+Once you have set up the application, you can launch the process of your data and see your output graphs as well as your excel file storing all the calculated data!
+
+### Features for future updates
+
+- triaxial tests data processing
+
+- possibility to really customize your graphs and your output excel file (and save your templates for future processes).
+
+- possibility to directly send requests / report bugs via an in-app menu
+
+- possibility to choose between French and English for text display
+
 
