@@ -26,7 +26,7 @@ Other parameters like the path to the folder in which the graphs are to be saved
 
 Once you have set up the application, you can launch the process of your data and see your output graphs as well as your excel file storing all the calculated data!
 
-### Features for future updates
+### Upcoming features for future updates
 
 - triaxial tests data processing
 
