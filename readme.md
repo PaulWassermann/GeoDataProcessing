@@ -1,20 +1,22 @@
 # GeoDataProcessing
 
-GeoDataProcessing is a software designed to process data measured during a pressuremeter test.   
-It is yet to be finished, but it already supports basic data process as well as some configurable options.
+GeoDataProcessing is a Python application I designed and developped to meet the needs of a geotechnical PhD student studiying in the university of Lorraine, France. 
 
+The purpose of the application is to significantly speed up experimental data processing, which can be a dull, repetitive task. It is also meant to output customizable, stylish graphs and excel files to highlight your relevant data.
+
+### Requirements
+
+The application can only be run on Windows 10.
 
 ### Installation
 
-Download the folder "GeoDataProcessing".
+Download the folder "GeoDataProcessing" and unzip it.
 
+### User guide
 
-### Usage
+Note: For now, the application can only process data measured during pressuremeter tests.
 
-You can put the shortcut in your desktop folder or simply double-click on the .exe application.  
-An in-app help menu will soon be implemented.
+To automatically process your data, you must provide:
 
+- an input, the excel file holding your data (to know how your data should be stored in your input file, open 
 
-### Support
-
-Again, an in-app support menu will soon be implemented but for the moment you can just email me to paul.wassermannn@gmail.com
