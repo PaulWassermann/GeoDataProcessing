@@ -9,8 +9,7 @@ The purpose of the application is to significantly speed up experimental data pr
 The application can only be run on Windows 10.
 
 ### Installation
-
-Download the folder "GeoDataProcessing" and unzip it.
+Go to "Releases" and click on "sourcecode".
 
 ### User guide
 
