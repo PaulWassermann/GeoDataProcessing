@@ -2,7 +2,7 @@
 
 GeoDataProcessing is a Python application I designed and developped to meet the needs of a geotechnical PhD student studiying in the university of Lorraine, France. 
 
-The purpose of the application is to significantly speed up experimental data processing, which can be a dull, repetitive task. It is also meant to output customizable, stylish graphs and excel files to highlight your relevant data.
+The purpose of the application is to significantly speed up experimental data processing, which can be a dull, repetitive task. It is also meant to output customizable, stylish graphs and excel files to highlight relevant data.
 
 ### Requirements
 
