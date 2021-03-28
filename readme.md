@@ -9,7 +9,8 @@ The purpose of the application is to significantly speed up experimental data pr
 The application can only be run on Windows 10.
 
 ### Installation
-Go to "Releases" and click on "sourcecode".
+
+Go to "Releases" and click on "Source code".
 
 ### User guide
 
